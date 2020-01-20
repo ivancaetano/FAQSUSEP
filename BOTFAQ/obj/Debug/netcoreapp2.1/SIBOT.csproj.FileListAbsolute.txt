@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\SIBOT\SIBOT\bin\Debug\netcoreapp2.1\SIBOT.deps.json
+C:\Users\Ivan\source\repos\SIBOT\SIBOT\bin\Debug\netcoreapp2.1\SIBOT.runtimeconfig.json
+C:\Users\Ivan\source\repos\SIBOT\SIBOT\bin\Debug\netcoreapp2.1\SIBOT.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\SIBOT\SIBOT\bin\Debug\netcoreapp2.1\SIBOT.dll
+C:\Users\Ivan\source\repos\SIBOT\SIBOT\bin\Debug\netcoreapp2.1\SIBOT.pdb
+C:\Users\Ivan\source\repos\SIBOT\SIBOT\obj\Debug\netcoreapp2.1\SIBOT.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\SIBOT\SIBOT\obj\Debug\netcoreapp2.1\SIBOT.RazorAssemblyInfo.cache
+C:\Users\Ivan\source\repos\SIBOT\SIBOT\obj\Debug\netcoreapp2.1\SIBOT.RazorAssemblyInfo.cs
+C:\Users\Ivan\source\repos\SIBOT\SIBOT\obj\Debug\netcoreapp2.1\SIBOT.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\SIBOT\SIBOT\obj\Debug\netcoreapp2.1\SIBOT.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\SIBOT\SIBOT\obj\Debug\netcoreapp2.1\SIBOT.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan\source\repos\SIBOT\SIBOT\obj\Debug\netcoreapp2.1\SIBOT.dll
+C:\Users\Ivan\source\repos\SIBOT\SIBOT\obj\Debug\netcoreapp2.1\SIBOT.pdb
+C:\Users\Ivan\source\repos\SIBOT\SIBOT\obj\Debug\netcoreapp2.1\SIBOT.csprojAssemblyReference.cache

@@ -1,0 +1,71 @@
+{
+	"info": {
+		"_postman_id": "0840de2e-31a5-404e-b794-e0dea3deded1",
+		"name": "SIBOT-SUSEP",
+		"schema": "https://schema.getpostman.com/json/collection/v2.1.0/collection.json"
+	},
+	"item": [
+		{
+			"name": "Inicia Sessao",
+			"request": {
+				"method": "POST",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"nuDialogo\": 1,\n    \"noUsuario\": \"Ivan\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:53830/api/conversa",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53830",
+					"path": [
+						"api",
+						"conversa"
+					]
+				}
+			},
+			"response": []
+		},
+		{
+			"name": "Responde Sessao",
+			"request": {
+				"method": "PUT",
+				"header": [
+					{
+						"key": "Content-Type",
+						"name": "Content-Type",
+						"value": "application/json",
+						"type": "text"
+					}
+				],
+				"body": {
+					"mode": "raw",
+					"raw": "{\n    \"nuSessao\": 31,\n    \"deResposta\": \"3\"\n}"
+				},
+				"url": {
+					"raw": "http://localhost:53830/api/conversa",
+					"protocol": "http",
+					"host": [
+						"localhost"
+					],
+					"port": "53830",
+					"path": [
+						"api",
+						"conversa"
+					]
+				}
+			},
+			"response": []
+		}
+	]
+}
