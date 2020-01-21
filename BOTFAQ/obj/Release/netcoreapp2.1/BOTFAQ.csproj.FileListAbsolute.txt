@@ -1,0 +1,14 @@
+C:\Users\Ivan\source\repos\BOTFAQ\BOTFAQ\bin\Release\netcoreapp2.1\BOTFAQ.deps.json
+C:\Users\Ivan\source\repos\BOTFAQ\BOTFAQ\bin\Release\netcoreapp2.1\BOTFAQ.runtimeconfig.json
+C:\Users\Ivan\source\repos\BOTFAQ\BOTFAQ\bin\Release\netcoreapp2.1\BOTFAQ.runtimeconfig.dev.json
+C:\Users\Ivan\source\repos\BOTFAQ\BOTFAQ\bin\Release\netcoreapp2.1\BOTFAQ.dll
+C:\Users\Ivan\source\repos\BOTFAQ\BOTFAQ\bin\Release\netcoreapp2.1\BOTFAQ.pdb
+C:\Users\Ivan\source\repos\BOTFAQ\BOTFAQ\obj\Release\netcoreapp2.1\BOTFAQ.csprojAssemblyReference.cache
+C:\Users\Ivan\source\repos\BOTFAQ\BOTFAQ\obj\Release\netcoreapp2.1\BOTFAQ.csproj.CoreCompileInputs.cache
+C:\Users\Ivan\source\repos\BOTFAQ\BOTFAQ\obj\Release\netcoreapp2.1\BOTFAQ.RazorAssemblyInfo.cache
+C:\Users\Ivan\source\repos\BOTFAQ\BOTFAQ\obj\Release\netcoreapp2.1\BOTFAQ.RazorAssemblyInfo.cs
+C:\Users\Ivan\source\repos\BOTFAQ\BOTFAQ\obj\Release\netcoreapp2.1\BOTFAQ.AssemblyInfoInputs.cache
+C:\Users\Ivan\source\repos\BOTFAQ\BOTFAQ\obj\Release\netcoreapp2.1\BOTFAQ.AssemblyInfo.cs
+C:\Users\Ivan\source\repos\BOTFAQ\BOTFAQ\obj\Release\netcoreapp2.1\BOTFAQ.RazorTargetAssemblyInfo.cache
+C:\Users\Ivan\source\repos\BOTFAQ\BOTFAQ\obj\Release\netcoreapp2.1\BOTFAQ.dll
+C:\Users\Ivan\source\repos\BOTFAQ\BOTFAQ\obj\Release\netcoreapp2.1\BOTFAQ.pdb

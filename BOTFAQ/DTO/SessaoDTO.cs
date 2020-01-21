@@ -7,6 +7,7 @@ namespace BOTFAQ.DTO
 {
     public class SessaoDTO
     {
+        
         public int nuDialogo { get; set; }
         public string noUsuario { get; set; }
     }

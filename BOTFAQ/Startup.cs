@@ -28,11 +28,13 @@ namespace BOTFAQ
         public void ConfigureServices(IServiceCollection services)
         {
             services.AddTransient<FAQDB001Context, FAQDB001Context>();
+            services.AddCors();
             services.AddMvc().SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
             // Register the Swagger generator, defining 1 or more Swagger documents
             services.AddSwaggerGen(c =>
             {
-                c.SwaggerDoc("v1", new OpenApiInfo { Title = "SIBOT", Version = "v1" });
+                c.SwaggerDoc("v1", new OpenApiInfo { Title = "FAQ", Version = "v1" });
             });
         }
 
@@ -47,9 +49,14 @@ namespace BOTFAQ
             }
             app.UseSwaggerUI(c =>
             {
-                c.SwaggerEndpoint("/swagger/v1/swagger.json", "SIBOT v1");
+                c.SwaggerEndpoint("/swagger/v1/swagger.json", "FAQ v1");
                 c.RoutePrefix = string.Empty;
             });
+            app.UseCors(builder => builder
+            .AllowAnyOrigin()
+            .AllowAnyMethod()
+            .AllowAnyHeader()
+            .AllowCredentials());
             app.UseMvc();
         }
     }
